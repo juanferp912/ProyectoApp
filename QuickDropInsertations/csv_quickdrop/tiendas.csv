@@ -1,0 +1,501 @@
+nombre,tipo,direccion,ciudad,estado
+Tienda Álvaro,Ferretería,Acceso Goyo Nadal 5 Piso 5 ,Palencia,True
+Tienda Bueno,Farmacia,Cuesta de Francisco Jose Esteban 64 Piso 1 ,Valencia,True
+Tienda Bermúdez,Papelería,C. Irma Vilar 972 Puerta 6 ,Cáceres,True
+Tienda Hidalgo,Restaurante,Cañada Pastora Camino 64 Piso 6 ,Valencia,True
+Tienda Carretero,Restaurante,Pasadizo Édgar Torres 9,Barcelona,True
+Tienda Nicolás,Ropa,Urbanización de Dani Vilaplana 983 Apt. 81 ,Girona,True
+Tienda Méndez,Papelería,Cañada Amaro Conesa 51,Castellón,True
+Tienda Ariño,Farmacia,Alameda de Teresita Llorens 29,Tarragona,True
+Tienda Izquierdo,MiniMarket,Via de Abel Saldaña 193 Apt. 45 ,Cantabria,True
+Tienda Nadal,MiniMarket,Cuesta de Jordán Casanovas 26,Salamanca,True
+Tienda Antúnez,Restaurante,Plaza de Teodoro Solera 373 Piso 3 ,Salamanca,True
+Tienda Aramburu,Papelería,Calle Encarnita Iborra 70,Granada,True
+Tienda Morell,Restaurante,Cañada Daniela Roldán 33 Puerta 7 ,Ceuta,True
+Tienda Botella,Papelería,Paseo Gregorio Mendizábal 210,Cuenca,True
+Tienda Feijoo,Tecnología,Rambla Noa Neira 46,Albacete,True
+Tienda Carbó,Farmacia,Pasaje de Jessica Gonzalez 75,Murcia,True
+Tienda Barco,MiniMarket,Rambla de Osvaldo Guerrero 9,Toledo,True
+Tienda Bello,Restaurante,Paseo Mireia Castillo 82,León,True
+Tienda Navas,Tecnología,Camino Aarón Santamaria 657 Piso 8 ,Alicante,True
+Tienda Dueñas,Ferretería,C. de Miguel Ayuso 3,Madrid,True
+Tienda Valera,Restaurante,Acceso Alex Pascual 571,Lleida,True
+Tienda Ayllón,Farmacia,Pasadizo de Gala Maldonado 43,Albacete,True
+Tienda Prat,MiniMarket,Ronda de Dominga Diéguez 259,Cuenca,True
+Tienda Atienza,Tecnología,Plaza Ramón Cabello 35,Sevilla,True
+Tienda Cuéllar,Papelería,C. de Alex Bueno 18 Puerta 4 ,Ceuta,True
+Tienda Pomares,Ropa,Cuesta de Áurea Córdoba 526,Cuenca,True
+Tienda Caparrós,Ferretería,Pasadizo de Victoria Chico 26 Apt. 78 ,Salamanca,True
+Tienda Bellido,Tecnología,Pasadizo de Julie Osuna 321,Sevilla,True
+Tienda Baños,Papelería,Acceso de Florentino Fuente 35,Castellón,True
+Tienda Solsona,Farmacia,Rambla Albano Verdú 20,Santa Cruz de Tenerife,True
+Tienda Baena,Farmacia,Urbanización Ofelia Valle 47 Piso 4 ,Sevilla,True
+Tienda Cuéllar,Ferretería,Vial Leticia Torre 614 Apt. 65 ,Barcelona,True
+Tienda Tur,MiniMarket,Plaza de Samu Suárez 5,Lleida,True
+Tienda Cabañas,Ropa,Glorieta de Felipe Roma 11,Cáceres,True
+Tienda Quesada,Tecnología,Avenida Eligio Rojas 83,Huelva,True
+Tienda Valle,Papelería,Plaza Vinicio Ureña 13 Apt. 75 ,Santa Cruz de Tenerife,True
+Tienda Martin,Farmacia,Plaza de Máximo Cueto 459,Huelva,True
+Tienda Mateo,Ropa,Pasaje de Noé Casares 8 Apt. 96 ,Toledo,True
+Tienda Nogueira,MiniMarket,Paseo Abigaíl Polo 92 Puerta 0 ,Guipúzcoa,True
+Tienda Rosselló,Papelería,Acceso Jordi Román 60 Piso 7 ,Vizcaya,True
+Tienda Castañeda,Farmacia,Calle de Leandro Santiago 37 Apt. 22 ,Valladolid,True
+Tienda Lluch,MiniMarket,Pasadizo Hector Atienza 20,Girona,True
+Tienda Lopez,Ropa,Rambla Estrella Garcia 933,Cuenca,True
+Tienda Morera,Restaurante,Pasadizo de Ángeles Hervia 40,Almería,True
+Tienda Burgos,Tecnología,Paseo de Cornelio Fabra 38 Apt. 88 ,Albacete,True
+Tienda Martín,Papelería,Cuesta de Alfonso Benavente 4,Tarragona,True
+Tienda Molins,Ferretería,Plaza de Nacho Peláez 66,Albacete,True
+Tienda Vallejo,Restaurante,Pasadizo Florentino Lasa 1 Piso 9 ,Cádiz,True
+Tienda Uría,Ferretería,Camino de Amor Gárate 74,Albacete,True
+Tienda Saez,Restaurante,Rambla Sonia Simó 57 Puerta 4 ,Baleares,True
+Tienda Castellanos,MiniMarket,Calle Amaya Adán 63,Santa Cruz de Tenerife,True
+Tienda Campo,Farmacia,Vial de Natalia Leon 98,Santa Cruz de Tenerife,True
+Tienda Castañeda,Ropa,Cañada Josep Belmonte 2 Apt. 92 ,Álava,True
+Tienda Oliveras,Papelería,Callejón Juan Manuel Tapia 25,Jaén,True
+Tienda Julián,MiniMarket,Cuesta Leticia Pozuelo 65 Piso 9 ,Vizcaya,True
+Tienda Huguet,Restaurante,Cañada de Isaura Sevilla 22 Piso 6 ,Melilla,True
+Tienda Carreras,Papelería,Cañada Felicidad Esparza 2,Ceuta,True
+Tienda Infante,MiniMarket,Plaza Berto Ojeda 827,Guadalajara,True
+Tienda Salom,Restaurante,Camino de Violeta Múñiz 3,Lleida,True
+Tienda Gual,Restaurante,Plaza de Amada Bernal 7,Teruel,True
+Tienda Mayo,Papelería,Glorieta de Gerardo Mur 51,Sevilla,True
+Tienda Peñalver,Ropa,Vial Noé Mayol 501,Toledo,True
+Tienda Alcolea,Tecnología,Rambla de Adán Bernat 40,Santa Cruz de Tenerife,True
+Tienda Estévez,Ropa,Avenida Ruy Giménez 66,Málaga,True
+Tienda Fabra,Papelería,Ronda Amador Somoza 600,Guipúzcoa,True
+Tienda Lluch,Ferretería,Pasaje de Felicia Tomé 9,Cádiz,True
+Tienda Company,MiniMarket,C. de Jose Antonio Reig 35 Piso 8 ,Murcia,True
+Tienda Ferrero,Papelería,Cañada Atilio Ferrándiz 115,Lugo,True
+Tienda Puente,Restaurante,Alameda Miguel Ángel Ródenas 979 Puerta 2 ,Córdoba,True
+Tienda Peñas,Farmacia,Glorieta José Manuel Moll 9 Apt. 02 ,Madrid,True
+Tienda Mora,MiniMarket,Cuesta Rosario Fortuny 10 Puerta 6 ,Valencia,True
+Tienda Borja,Ferretería,Urbanización Daniel Castilla 23 Puerta 0 ,Murcia,True
+Tienda Arranz,Restaurante,Plaza de Bonifacio Sanmiguel 21,Cádiz,True
+Tienda Núñez,Ropa,Alameda de Emilia Cuadrado 5,Teruel,True
+Tienda Sanz,Papelería,Ronda Leonel Gonzalo 846 Apt. 98 ,Granada,True
+Tienda Campillo,Papelería,Pasadizo Gabino Heras 8,Burgos,True
+Tienda Zaragoza,Tecnología,Avenida de Angelita Gallardo 35 Piso 6 ,Ciudad,True
+Tienda Arco,Ferretería,Glorieta de Amada Calvet 46 Apt. 32 ,Castellón,True
+Tienda Amor,Tecnología,Camino Anna Feliu 11,Palencia,True
+Tienda Cepeda,Ropa,Cuesta de Anna Izquierdo 48,Guadalajara,True
+Tienda Ferrándiz,Ropa,Cañada de Nicolás Chaparro 34,Melilla,True
+Tienda Prada,Tecnología,Via de Carmelita Canet 60 Piso 9 ,Cantabria,True
+Tienda Guillén,Ferretería,Cuesta de Dominga Moliner 57,Valencia,True
+Tienda Mayol,MiniMarket,Pasadizo Encarna Gutierrez 14 Piso 2 ,Almería,True
+Tienda Alemán,Ropa,Calle de Goyo Mateos 35,Castellón,True
+Tienda Bermúdez,Ferretería,Callejón de Liliana Carrasco 880,Alicante,True
+Tienda Cárdenas,Ferretería,Rambla Aureliano Múgica 72,Guipúzcoa,True
+Tienda Muñoz,Restaurante,Urbanización Delia Oliver 69,Burgos,True
+Tienda Fiol,MiniMarket,Acceso Aitana Palomo 78 Puerta 4 ,Cantabria,True
+Tienda Abad,Ferretería,Cañada de Ezequiel Calatayud 40 Puerta 6 ,Toledo,True
+Tienda Rincón,Ferretería,Rambla de Felipe Casares 920 Puerta 6 ,Alicante,True
+Tienda Arco,Farmacia,Vial de Macarena Pellicer 474,Jaén,True
+Tienda Cuevas,Ropa,Rambla de Anacleto Oller 94,Teruel,True
+Tienda Vendrell,Papelería,Via de Loreto Arévalo 66,Valencia,True
+Tienda Saura,Restaurante,Glorieta Valeria Arco 43,Badajoz,True
+Tienda Contreras,Ferretería,Glorieta Candela Pomares 4,Málaga,True
+Tienda Silva,Papelería,Pasadizo de Visitación Juan 80 Piso 8 ,Ávila,True
+Tienda Montoya,Ferretería,Acceso de Mariana Calzada 8 Piso 2 ,Albacete,True
+Tienda Vega,Ropa,C. de Odalis Fortuny 55,Burgos,True
+Tienda Baena,Ropa,Acceso de Pedro Camacho 18,Zamora,True
+Tienda Francisco,Farmacia,Avenida Fermín Aparicio 1 Piso 9 ,Murcia,True
+Tienda Borrás,Farmacia,Paseo Gabriel Casanovas 59 Piso 4 ,Melilla,True
+Tienda Blasco,MiniMarket,C. de Inocencio Alsina 83,Zamora,True
+Tienda Garcés,Papelería,Cuesta de Tamara Moraleda 99 Puerta 0 ,Albacete,True
+Tienda Bejarano,Restaurante,Callejón Maite Rios 78 Apt. 96 ,Cáceres,True
+Tienda Suárez,Ferretería,Avenida Celia Godoy 4,Albacete,True
+Tienda Vilanova,Ropa,Alameda Pili Parejo 427,Soria,True
+Tienda Zamorano,Ropa,Vial Evangelina Sanmartín 3,Córdoba,True
+Tienda Torrijos,Farmacia,Rambla Nando Ordóñez 26,Teruel,True
+Tienda Español,Tecnología,Callejón Teresa Luís 14,Cáceres,True
+Tienda Castell,Ropa,Pasaje de Luis López 10,Melilla,True
+Tienda Cepeda,Ferretería,Pasaje de Tamara Cárdenas 63,Palencia,True
+Tienda Solsona,Papelería,Paseo Mario Palma 2 Apt. 25 ,La Rioja,True
+Tienda Vilaplana,Tecnología,Plaza Cándido Carro 86,Teruel,True
+Tienda Mendizábal,MiniMarket,Urbanización Aitana Amigó 78 Piso 3 ,Castellón,True
+Tienda Alcaraz,Farmacia,Ronda Sergio Sainz 318 Apt. 08 ,Las Palmas,True
+Tienda Cuervo,Tecnología,Vial Nayara Castelló 2 Puerta 7 ,Valladolid,True
+Tienda Sáez,Tecnología,Calle de Encarnita Lopez 81 Apt. 78 ,Ceuta,True
+Tienda Noguera,Ferretería,Vial de Eusebio Vara 13,Baleares,True
+Tienda Pablo,Papelería,Pasaje Edelmira Palacios 590,Tarragona,True
+Tienda Valls,Ferretería,Ronda Mohamed Cornejo 20 Piso 9 ,Barcelona,True
+Tienda Domínguez,Ferretería,Paseo Joaquín Torres 51 Piso 0 ,Segovia,True
+Tienda Teruel,Farmacia,Ronda de Chelo Alcalá 10 Puerta 6 ,Ceuta,True
+Tienda Aroca,Ferretería,C. de Joaquina Camps 73,Navarra,True
+Tienda Manuel,Tecnología,Rambla de Manola Blasco 4,Ceuta,True
+Tienda Arroyo,MiniMarket,Pasaje Irma Guardiola 2,Girona,True
+Tienda Perea,Papelería,Acceso Pablo Milla 86,Teruel,True
+Tienda Torrijos,MiniMarket,Alameda de Evangelina Gracia 40,León,True
+Tienda Carranza,MiniMarket,Cañada Vidal Sarmiento 982,Cáceres,True
+Tienda Sancho,Ropa,Pasadizo Andrés Aznar 55,Huelva,True
+Tienda Estevez,Papelería,C. Candelario Piñeiro 42,Valladolid,True
+Tienda Milla,Papelería,Ronda Germán Montoya 95 Piso 0 ,Vizcaya,True
+Tienda Lerma,Papelería,Alameda de Marcelo Marti 6,Toledo,True
+Tienda Blanes,Papelería,Acceso Marcial Atienza 91 Apt. 67 ,Soria,True
+Tienda Espada,Ropa,Avenida María Belén Barrera 867 Apt. 15 ,Albacete,True
+Tienda Perera,Tecnología,Ronda de Flor Sosa 1,Burgos,True
+Tienda Giménez,MiniMarket,Cuesta de Fernando Bermejo 61 Puerta 0 ,Salamanca,True
+Tienda Melero,Ropa,Rambla de Ani Barros 8,Tarragona,True
+Tienda Montserrat,Tecnología,Acceso de Violeta Paniagua 13,Burgos,True
+Tienda Blanes,Restaurante,Cuesta de Luciana Roca 80 Piso 8 ,Burgos,True
+Tienda Guillen,Restaurante,Avenida Marisela Segura 56,Almería,True
+Tienda Blanca,Tecnología,Glorieta María Maldonado 22,Melilla,True
+Tienda Aragonés,Papelería,Acceso Marina Corominas 5 Piso 3 ,Barcelona,True
+Tienda Benito,Ferretería,Camino de Macaria Lledó 64 Puerta 9 ,Sevilla,True
+Tienda Aller,Papelería,Cañada Nazaret Diaz 42 Piso 6 ,Navarra,True
+Tienda Baños,Restaurante,Pasadizo Celestina Izaguirre 67 Puerta 9 ,Cuenca,True
+Tienda Pastor,Ropa,Callejón Jose Quintero 62 Apt. 75 ,Córdoba,True
+Tienda Machado,Ferretería,Pasaje Dionisio Pazos 73 Apt. 87 ,Alicante,True
+Tienda López,Ferretería,Avenida Morena Figueroa 178,La Coruña,True
+Tienda Teruel,Tecnología,Cañada de María José Coca 94,La Coruña,True
+Tienda Aguirre,MiniMarket,Ronda de Florencio Roura 43 Piso 2 ,Zaragoza,True
+Tienda Maldonado,MiniMarket,C. de Felicia Falcón 822 Apt. 14 ,Tarragona,True
+Tienda León,Farmacia,Camino Jose Luis Bello 1,Málaga,True
+Tienda Gelabert,Papelería,Paseo de Baldomero Prado 75,Álava,True
+Tienda Valencia,Ropa,Alameda Rosario Carreño 44 Piso 2 ,Zamora,True
+Tienda Atienza,Tecnología,Ronda Tecla Tomé 2 Piso 2 ,Alicante,True
+Tienda Oller,Ferretería,Callejón de Ramón Farré 13,Murcia,True
+Tienda Elías,Restaurante,Acceso Jacobo Mínguez 57,Badajoz,True
+Tienda Exposito,Tecnología,Paseo Jordán Campoy 15,Soria,True
+Tienda Serra,Ferretería,Pasadizo de Paola Escamilla 691,Almería,True
+Tienda Blanch,Restaurante,Urbanización de Bruno Llorens 75 Puerta 6 ,Salamanca,True
+Tienda Jover,Restaurante,Callejón Jordana Alegre 11 Puerta 3 ,Valencia,True
+Tienda Agullo,Papelería,Vial de Bibiana Teruel 7,Soria,True
+Tienda Tejera,Restaurante,C. Abraham Tomas 88 Puerta 6 ,Navarra,True
+Tienda Tejada,Ropa,Via de Glauco Álamo 11,Ourense,True
+Tienda Fiol,MiniMarket,Avenida de Rosario Folch 91,Granada,True
+Tienda Tejera,Ferretería,Calle Blanca Ramos 28,Albacete,True
+Tienda Herranz,Ferretería,Camino de Roxana Santamaria 95,Ceuta,True
+Tienda Hidalgo,Ropa,Avenida de Adriana Lledó 55 Apt. 69 ,Teruel,True
+Tienda Tenorio,Farmacia,Rambla de Miguel Ángel Mur 40 Puerta 7 ,Cantabria,True
+Tienda Herrera,Ropa,Rambla Toribio Pineda 51 Apt. 83 ,Girona,True
+Tienda Donoso,Ferretería,Acceso de Ruperta Arroyo 9,La Rioja,True
+Tienda Farré,Ferretería,Via Arcelia Hernando 28,Soria,True
+Tienda Ortega,Papelería,Camino de Jose Antonio Gallart 81 Puerta 4 ,Lleida,True
+Tienda Solsona,Ferretería,Cuesta de Federico Cabañas 7,Toledo,True
+Tienda Almeida,Ferretería,Camino de Leonel Camacho 99,Cáceres,True
+Tienda Marcos,Tecnología,Glorieta Belén Aguirre 234,Badajoz,True
+Tienda Barba,Farmacia,Pasaje de Macario Corral 71 Piso 2 ,Toledo,True
+Tienda Blanco,MiniMarket,Glorieta de Rico Roura 60,Navarra,True
+Tienda Vilar,Ferretería,Urbanización de Jacinto Cal 37 Puerta 6 ,Burgos,True
+Tienda Arenas,Ferretería,Cuesta Prudencia Villena 60,Salamanca,True
+Tienda Serrano,Tecnología,Plaza de Corona Gabaldón 10 Apt. 21 ,Cáceres,True
+Tienda Cabañas,Farmacia,Calle de Édgar Llopis 28 Puerta 1 ,Navarra,True
+Tienda Ocaña,Tecnología,Glorieta Reyes Saez 10 Puerta 7 ,Huelva,True
+Tienda Tejada,Tecnología,Paseo Iván Quirós 91,Barcelona,True
+Tienda Ribas,Tecnología,Callejón de Omar Palomar 846,Ourense,True
+Tienda Frutos,Tecnología,Paseo Humberto Martínez 595 Puerta 9 ,Madrid,True
+Tienda Pedraza,Farmacia,Rambla de Pastor Calleja 63,Valladolid,True
+Tienda Cruz,Farmacia,Avenida Gaspar Sanabria 60,Córdoba,True
+Tienda Criado,Tecnología,Avenida Ruperto Saura 994,Palencia,True
+Tienda Garcia,Tecnología,Vial Vinicio Mateos 8 Puerta 3 ,Vizcaya,True
+Tienda Moles,Papelería,Avenida de Jessica Diaz 32 Apt. 45 ,Badajoz,True
+Tienda Bello,Papelería,Paseo de Ovidio Badía 93,Barcelona,True
+Tienda Uribe,MiniMarket,Avenida Luisina Comas 704 Puerta 6 ,León,True
+Tienda Tello,Ropa,Acceso Viviana Gil 75 Apt. 15 ,Sevilla,True
+Tienda Riquelme,Ropa,Glorieta de Reynaldo Real 87 Piso 1 ,Álava,True
+Tienda Pereira,Farmacia,Vial Urbano Pareja 35 Puerta 8 ,Ciudad,True
+Tienda Avilés,Farmacia,Alameda Macario Gallego 77,Ourense,True
+Tienda Arce,Tecnología,Paseo de Brígida Bermejo 590,Valladolid,True
+Tienda Roman,Restaurante,Urbanización de Carina Montes 5,Valladolid,True
+Tienda Granados,Ropa,Cañada de María Teresa Díaz 1 Piso 8 ,Lugo,True
+Tienda Marti,MiniMarket,Paseo de Candelas Villa 42,Guipúzcoa,True
+Tienda Lozano,Restaurante,C. Ariel Solís 185 Apt. 20 ,La Coruña,True
+Tienda López,Tecnología,Pasaje de Fátima Cuevas 64,Melilla,True
+Tienda Arranz,Papelería,Plaza Violeta Calderón 112,Salamanca,True
+Tienda Bueno,Tecnología,Urbanización Vito Bas 19 Piso 9 ,Cuenca,True
+Tienda Galiano,Papelería,Rambla de Anastasio Cal 4,Valladolid,True
+Tienda Pizarro,Farmacia,Paseo Eligio Estévez 36 Apt. 46 ,Álava,True
+Tienda Castells,Papelería,Pasadizo Victoriano Cabello 1 Piso 9 ,Baleares,True
+Tienda Cepeda,Papelería,Vial de Graciela Anguita 33,Cáceres,True
+Tienda Moraleda,MiniMarket,Urbanización de Chucho Gomila 29 Piso 2 ,Alicante,True
+Tienda Aznar,Restaurante,Callejón Rosario Duran 48 Puerta 5 ,Barcelona,True
+Tienda Carrera,Farmacia,Rambla Ignacia Ribera 972,Girona,True
+Tienda Piñeiro,Ropa,Vial de Agustín Valdés 776 Piso 5 ,Almería,True
+Tienda Checa,Ropa,Vial Tristán Madrigal 19 Piso 9 ,Huesca,True
+Tienda Lopez,Tecnología,Camino Encarnita Garcés 21,Sevilla,True
+Tienda Gras,Farmacia,Vial de Tania Nebot 59 Piso 3 ,Albacete,True
+Tienda Puga,Tecnología,Avenida María Cristina Uriarte 80,Valencia,True
+Tienda Fuertes,Restaurante,Calle de María Del Carmen Arroyo 6,Ceuta,True
+Tienda Cerezo,Ropa,C. de Aroa Luz 874 Apt. 10 ,Ceuta,True
+Tienda Manrique,Restaurante,Via de Tecla Villa 92 Piso 1 ,Burgos,True
+Tienda Torres,Restaurante,Via de Maxi Almazán 6,Ceuta,True
+Tienda Sobrino,Papelería,Callejón Marcial Diego 9 Apt. 32 ,Jaén,True
+Tienda Moraleda,Restaurante,Via de Domitila Villena 48,Castellón,True
+Tienda Cózar,Restaurante,Cuesta de Aurelio Hervás 84,Almería,True
+Tienda Díez,Farmacia,Paseo Mariano Borrás 2,La Coruña,True
+Tienda Bejarano,MiniMarket,Plaza de Joaquina Santos 662,Soria,True
+Tienda Mesa,Ropa,C. de Aristides Román 3 Puerta 2 ,Sevilla,True
+Tienda Montenegro,Ropa,Vial Yago Alberto 22 Apt. 23 ,Alicante,True
+Tienda Iborra,Ferretería,Ronda Otilia Montesinos 28,Segovia,True
+Tienda Bayona,Restaurante,Rambla Curro Maldonado 90 Apt. 86 ,Murcia,True
+Tienda Mancebo,Restaurante,Paseo Dominga Acevedo 2,Santa Cruz de Tenerife,True
+Tienda Machado,Restaurante,Rambla de Azahar Talavera 970 Puerta 8 ,Zaragoza,True
+Tienda Villa,Ropa,Glorieta Delfina Blanca 187 Puerta 6 ,Toledo,True
+Tienda Rey,Ropa,Callejón de Juan Antonio Bustamante 3 Apt. 93 ,Soria,True
+Tienda Segarra,Ropa,Calle de Leonel Morcillo 49 Apt. 87 ,Melilla,True
+Tienda Arévalo,Ferretería,Rambla de Jenaro Martí 4 Puerta 8 ,Vizcaya,True
+Tienda Montalbán,Restaurante,Cuesta Natanael Pont 5,Ceuta,True
+Tienda Gras,Tecnología,Glorieta Edelmiro Manjón 46 Piso 4 ,Tarragona,True
+Tienda Dueñas,MiniMarket,Glorieta de Vasco Reguera 50,Salamanca,True
+Tienda Peralta,MiniMarket,Glorieta de Germán Carro 48,Zaragoza,True
+Tienda Tamayo,Restaurante,Ronda de Reyes Rico 32 Apt. 98 ,Ávila,True
+Tienda Roura,Ropa,Cañada Samanta Bou 10,Salamanca,True
+Tienda Alsina,Ferretería,Camino de Ángeles Mata 654,Huesca,True
+Tienda Lluch,MiniMarket,Pasaje de Rolando Arrieta 7 Puerta 3 ,Alicante,True
+Tienda Cobo,MiniMarket,Acceso Heriberto Cañellas 4 Puerta 4 ,Badajoz,True
+Tienda Múgica,Papelería,Calle Serafina Maestre 53 Puerta 4 ,Las Palmas,True
+Tienda Lucas,Restaurante,Cuesta Pastora Cobos 40 Puerta 5 ,Alicante,True
+Tienda Soria,Ropa,C. Fermín Flor 83 Apt. 70 ,Zamora,True
+Tienda Pino,Papelería,Camino Gastón Ferrero 97,Girona,True
+Tienda Díaz,Restaurante,Camino de Juan Carreras 87,Zaragoza,True
+Tienda Peiró,Ropa,Cañada de Susana Julián 355,Santa Cruz de Tenerife,True
+Tienda Maza,Ropa,Calle Joaquín Millán 74 Apt. 35 ,Palencia,True
+Tienda Azorin,Restaurante,Pasaje Eleuterio Carrasco 86,Madrid,True
+Tienda Guzman,MiniMarket,Vial de Tatiana Gargallo 4,León,True
+Tienda Higueras,Ferretería,Cuesta Sarita Ledesma 952 Piso 8 ,Vizcaya,True
+Tienda Lozano,Ropa,Plaza de Jose Adadia 1 Puerta 2 ,Ávila,True
+Tienda Egea,Papelería,Callejón Azahar León 601 Piso 6 ,Toledo,True
+Tienda Cañas,Ropa,Vial Jesús Español 15 Piso 9 ,Alicante,True
+Tienda Mateo,MiniMarket,Calle Emperatriz Villalobos 34 Puerta 5 ,Cádiz,True
+Tienda Bertrán,MiniMarket,Via Mar Raya 53 Puerta 9 ,Las Palmas,True
+Tienda Rubio,Tecnología,Paseo de Teodosio Alcalde 639,Badajoz,True
+Tienda Palau,Ferretería,Urbanización de Lucas Ureña 45,Granada,True
+Tienda Gracia,Papelería,Callejón Alba Aparicio 78 Piso 4 ,Melilla,True
+Tienda Bustamante,Ferretería,Vial Jovita Montes 503,Lugo,True
+Tienda Folch,Tecnología,Pasadizo de Felipa Verdugo 1 Piso 9 ,León,True
+Tienda Vidal,Farmacia,Avenida de Lorenza Tamayo 106 Piso 9 ,Palencia,True
+Tienda Espinosa,Papelería,Glorieta Valerio Carbonell 2 Puerta 4 ,Ceuta,True
+Tienda Escudero,Restaurante,Avenida de Pastor Sola 138 Piso 8 ,Córdoba,True
+Tienda Posada,Farmacia,Pasadizo de María Carmen Casals 979,Girona,True
+Tienda Expósito,Papelería,Camino Emiliana Vall 14,Burgos,True
+Tienda Amor,Papelería,C. Alicia Velázquez 18,Ávila,True
+Tienda Cobo,Tecnología,Glorieta Ángel Valdés 4 Puerta 4 ,Asturias,True
+Tienda España,Restaurante,Acceso Isidoro Pozo 3 Puerta 9 ,Guipúzcoa,True
+Tienda Mateo,MiniMarket,Pasaje Sandra Guerrero 35 Puerta 3 ,Barcelona,True
+Tienda Mayoral,Ferretería,Pasadizo de Azeneth Galán 79 Apt. 94 ,Guipúzcoa,True
+Tienda Iñiguez,Restaurante,Urbanización Francisco Jose Pombo 118 Puerta 6 ,Asturias,True
+Tienda Vélez,Restaurante,Calle Florentina Gárate 43,Ourense,True
+Tienda Tejada,Restaurante,Vial de Noelia Iglesia 6,Toledo,True
+Tienda Suarez,Tecnología,Pasaje de Elpidio Soto 3 Apt. 89 ,Sevilla,True
+Tienda Rosa,Tecnología,Glorieta de Alejandro Cuevas 314 Piso 3 ,Badajoz,True
+Tienda Bermudez,Ferretería,Pasadizo Toribio Hernando 5,León,True
+Tienda Gilabert,Ferretería,Cañada de Dionisia Jurado 2 Piso 1 ,León,True
+Tienda Torrents,Tecnología,Alameda de Constanza Hervás 85 Apt. 25 ,Albacete,True
+Tienda Palomar,MiniMarket,Pasaje Venceslás Martínez 7 Piso 6 ,Huesca,True
+Tienda Espejo,Papelería,Rambla Felicidad Julián 95 Apt. 48 ,Lleida,True
+Tienda Chacón,MiniMarket,Cañada de Belen Escolano 38 Piso 8 ,Valladolid,True
+Tienda Ruiz,MiniMarket,Urbanización Lucía Mariño 92,Ceuta,True
+Tienda Canet,Restaurante,Camino Victor Navarro 451,Zamora,True
+Tienda Barros,Tecnología,C. de Anastasia Jover 216 Puerta 1 ,Tarragona,True
+Tienda Cózar,Tecnología,Urbanización de Segismundo Cózar 35 Piso 0 ,Toledo,True
+Tienda Bustamante,Papelería,Rambla Apolinar Aliaga 658,Ourense,True
+Tienda Plana,Restaurante,Alameda de Teresita Marin 8 Puerta 5 ,Navarra,True
+Tienda Salvà,MiniMarket,Paseo Angelina Laguna 494 Puerta 6 ,Las Palmas,True
+Tienda Herranz,Restaurante,Cuesta Haydée Barba 1,Castellón,True
+Tienda Ribas,MiniMarket,Ronda Ismael Ramos 3 Piso 9 ,Valladolid,True
+Tienda Correa,Ferretería,Ronda de Almudena Dávila 27 Puerta 4 ,Zamora,True
+Tienda Jordá,Tecnología,Cuesta de Bernabé Tejera 7 Piso 8 ,Ávila,True
+Tienda Aragón,Papelería,Alameda de Carmelita Español 77 Apt. 91 ,Ciudad,True
+Tienda Vilanova,Ferretería,Avenida de Ana Sofía Llopis 32 Piso 6 ,Pontevedra,True
+Tienda Llano,MiniMarket,Avenida Rosario Pareja 47,Murcia,True
+Tienda Chamorro,Farmacia,Paseo Zaira Gomis 7 Apt. 44 ,Castellón,True
+Tienda Velasco,Restaurante,Cuesta de Ezequiel Infante 99 Piso 1 ,Girona,True
+Tienda Salazar,Ropa,Pasadizo de Tamara Godoy 1,Ceuta,True
+Tienda Benito,MiniMarket,Cañada Flavio Rodrigo 64,Segovia,True
+Tienda Rey,Ferretería,Cuesta Matilde Martí 61 Puerta 0 ,Cantabria,True
+Tienda Vara,Ropa,Pasadizo Evangelina Pastor 63,Madrid,True
+Tienda Hervás,Tecnología,Pasaje de Julián Saez 2,Álava,True
+Tienda Cantero,Ropa,Alameda Isa Niño 539,Cádiz,True
+Tienda Moles,MiniMarket,Callejón Ruben Maestre 13 Piso 7 ,La Coruña,True
+Tienda Cabeza,Ropa,Acceso de Leandro Velázquez 1 Apt. 61 ,Navarra,True
+Tienda Fuente,Papelería,Urbanización de Adelina Cuesta 40 Apt. 90 ,Asturias,True
+Tienda Almansa,MiniMarket,Paseo Jimena Cerdán 42,Madrid,True
+Tienda Vizcaíno,Farmacia,C. de Fátima Asensio 81,Segovia,True
+Tienda Hidalgo,Ferretería,Rambla Úrsula Taboada 5,Baleares,True
+Tienda Morera,Farmacia,Cañada Clotilde Rosselló 77,Salamanca,True
+Tienda Girona,Ropa,Paseo de Calista Anguita 1,Burgos,True
+Tienda Rocha,Ferretería,Cañada de Yéssica Duran 53 Apt. 62 ,Pontevedra,True
+Tienda Armas,MiniMarket,Plaza Benigno Guerra 53,Lleida,True
+Tienda Mercader,Ropa,Plaza de Felix Guardiola 5,Córdoba,True
+Tienda Muñoz,MiniMarket,Via de Sancho Moll 60 Piso 8 ,Cuenca,True
+Tienda Torrent,Tecnología,Camino Sergio Luna 60,Pontevedra,True
+Tienda Barberá,Ferretería,Rambla Jeremías Leiva 49 Apt. 51 ,Barcelona,True
+Tienda Trillo,Ropa,Pasaje de Eva María Zabala 31,Huelva,True
+Tienda Salmerón,Tecnología,Cuesta de Lucila Acosta 444,Ciudad,True
+Tienda Tomás,Farmacia,Ronda de José Mari Pavón 56,Girona,True
+Tienda Fuertes,Farmacia,Paseo de Delia Agustí 84,Palencia,True
+Tienda Blazquez,MiniMarket,Glorieta de Soraya Yuste 40 Puerta 1 ,Jaén,True
+Tienda Carmona,Ferretería,Pasadizo Delia Benavides 609,Ávila,True
+Tienda Alcolea,Restaurante,Plaza Domitila Albero 5 Puerta 6 ,Toledo,True
+Tienda Viña,Ferretería,Glorieta Yéssica Nebot 80 Piso 3 ,Badajoz,True
+Tienda Reguera,Ferretería,Via María Manuela Alcántara 1 Apt. 49 ,Murcia,True
+Tienda Cueto,Restaurante,Rambla Nélida Mateo 6,Castellón,True
+Tienda Calvet,Ferretería,Pasadizo de Epifanio Prieto 1,Melilla,True
+Tienda Colomer,Ferretería,C. de Ariel Castell 496 Piso 0 ,Almería,True
+Tienda Flores,Tecnología,Pasadizo Piedad Patiño 4 Apt. 46 ,Lleida,True
+Tienda Urrutia,Papelería,Vial Jaime Talavera 404 Piso 1 ,Córdoba,True
+Tienda Vergara,Farmacia,Avenida de Vinicio Solano 90 Apt. 78 ,Huelva,True
+Tienda Luján,Ropa,Cañada de Milagros Figueras 3 Puerta 9 ,Pontevedra,True
+Tienda Batlle,Restaurante,Camino de Angelino Almazán 43 Puerta 6 ,Álava,True
+Tienda Miró,Farmacia,Cañada Julia Agustín 60 Puerta 6 ,Segovia,True
+Tienda Seco,MiniMarket,Pasadizo de Adela Luján 2,Lugo,True
+Tienda Sarmiento,Restaurante,Via Olalla Reig 3,Ourense,True
+Tienda Buendía,MiniMarket,C. Jennifer Llamas 791 Piso 9 ,Teruel,True
+Tienda Cánovas,Ferretería,Paseo Conrado Bermudez 76 Apt. 86 ,Burgos,True
+Tienda Salvà,MiniMarket,Calle de Gisela Carro 5,Soria,True
+Tienda Heras,Ropa,Camino de Carina Soriano 26,Cantabria,True
+Tienda Orozco,MiniMarket,Cañada María Fernanda Montenegro 32 Apt. 81 ,Álava,True
+Tienda Coronado,Ropa,Paseo Vicente Alemán 66 Apt. 35 ,Baleares,True
+Tienda Ruano,MiniMarket,Paseo de Celestino Saavedra 218,Cantabria,True
+Tienda Arregui,Restaurante,Alameda de Ciriaco Carballo 854 Piso 6 ,La Rioja,True
+Tienda Riera,Farmacia,Plaza de Augusto Granados 29 Piso 2 ,Cantabria,True
+Tienda Ocaña,MiniMarket,Vial Camila Aguirre 96,Ceuta,True
+Tienda Cantón,MiniMarket,Cañada Porfirio Menéndez 5 Puerta 8 ,Palencia,True
+Tienda Castell,Ferretería,Alameda de Nadia Aguirre 5 Puerta 6 ,Badajoz,True
+Tienda Gálvez,Tecnología,Cañada Emigdio Cruz 243,Palencia,True
+Tienda Guijarro,Farmacia,C. Crescencia Pintor 70 Puerta 4 ,Toledo,True
+Tienda Ferrer,Tecnología,Paseo de Juanito Márquez 5,La Coruña,True
+Tienda Escobar,MiniMarket,Cuesta Américo Marti 18,Las Palmas,True
+Tienda Priego,Papelería,Ronda Felicia Español 877 Piso 3 ,Ávila,True
+Tienda Fernandez,Papelería,C. de Anselma Galván 51 Apt. 50 ,Cádiz,True
+Tienda Alegre,Farmacia,Alameda de Vidal Calzada 72,Valladolid,True
+Tienda Noriega,Ropa,Pasadizo Ariel Puerta 548 Piso 8 ,Baleares,True
+Tienda Taboada,Ferretería,Avenida Baltasar Alba 4,Málaga,True
+Tienda Peinado,Farmacia,Vial de Candela Luís 125,Tarragona,True
+Tienda Tamayo,Ropa,Pasaje de Dan Marcos 6 Puerta 3 ,La Rioja,True
+Tienda Hervia,Farmacia,Camino Victoriano Pomares 85,Lleida,True
+Tienda Manuel,Restaurante,Avenida Josep Rebollo 28 Puerta 1 ,Castellón,True
+Tienda Castejón,Ropa,Callejón Marisa Galán 3 Puerta 5 ,Toledo,True
+Tienda Cervera,Ropa,Rambla de Luisa Gracia 82,Cuenca,True
+Tienda Arrieta,Ropa,Ronda Mirta Rosado 90 Puerta 8 ,Guipúzcoa,True
+Tienda Aroca,Farmacia,Camino de Josué Bosch 54,Baleares,True
+Tienda Sola,Tecnología,Cañada de Luis Fuentes 6,Cantabria,True
+Tienda Díaz,Farmacia,Paseo Teodosio Marín 6 Puerta 9 ,Murcia,True
+Tienda Rocamora,Papelería,Calle Esmeralda Díaz 48,Guadalajara,True
+Tienda Acosta,Ropa,Callejón Isa Sierra 5,Albacete,True
+Tienda Rodriguez,Tecnología,Avenida de Américo Doménech 81 Puerta 5 ,Ceuta,True
+Tienda Esteve,Ferretería,Plaza de Javier Linares 82 Puerta 6 ,Burgos,True
+Tienda Comas,Restaurante,Rambla de Salomé Fuster 61,Murcia,True
+Tienda Catalán,Farmacia,Cuesta Segismundo Angulo 39,Castellón,True
+Tienda Cornejo,Papelería,Cañada de Edmundo Beltrán 16 Piso 4 ,Guadalajara,True
+Tienda Otero,Ferretería,Camino de Marina Gibert 2,Ourense,True
+Tienda Frías,Tecnología,Cuesta de Plácido Pinedo 26,Teruel,True
+Tienda Sastre,Farmacia,Avenida de María Fernanda Contreras 8 Apt. 41 ,Murcia,True
+Tienda Tejero,Papelería,Via de Heriberto Arce 514,Madrid,True
+Tienda Andrés,Ferretería,Vial Marisa Barbero 52,Ávila,True
+Tienda Blazquez,Farmacia,Plaza de Artemio Baños 22,Lugo,True
+Tienda Delgado,Farmacia,Cañada de Jacinto Marco 5,Sevilla,True
+Tienda Perelló,Restaurante,Cuesta de Ainara Salom 58,Baleares,True
+Tienda Gelabert,Tecnología,Ronda Rosalina Noguera 40 Apt. 73 ,Madrid,True
+Tienda Cueto,MiniMarket,Urbanización de Lilia Clemente 54 Puerta 2 ,Cádiz,True
+Tienda Catalán,Papelería,Plaza de Augusto Miralles 31,Alicante,True
+Tienda Tenorio,Restaurante,Plaza de Adora Varela 58,Vizcaya,True
+Tienda Ramirez,Ferretería,Camino Julio Segovia 3 Puerta 4 ,Soria,True
+Tienda Morales,Farmacia,Cuesta Estrella Alberdi 702 Piso 0 ,Burgos,True
+Tienda Taboada,Papelería,Paseo María Cabo 4,Soria,True
+Tienda Leiva,Farmacia,Cañada de Rosalina Ávila 1,Valencia,True
+Tienda Leal,Ferretería,Cañada Francisca Sales 36,Vizcaya,True
+Tienda Hervás,Ropa,Pasadizo Joaquina Gisbert 50,Segovia,True
+Tienda Jáuregui,MiniMarket,Ronda Ricardo Manuel 13 Apt. 60 ,Valladolid,True
+Tienda Vilar,Ropa,Paseo Paloma Aznar 86 Piso 8 ,Guadalajara,True
+Tienda Somoza,MiniMarket,Urbanización de Ainara Guardiola 40,Baleares,True
+Tienda Bastida,Ropa,Cuesta Maribel Jove 30,Ávila,True
+Tienda Ferrández,Ropa,Cuesta de Anunciación Borja 26 Puerta 4 ,Lleida,True
+Tienda Pi,Farmacia,Vial Vicenta Vizcaíno 21,Cantabria,True
+Tienda Pardo,Papelería,Glorieta de Brígida Pacheco 245,Baleares,True
+Tienda Riera,Tecnología,Pasadizo Manola Mateos 46 Puerta 1 ,Guadalajara,True
+Tienda Torrens,Papelería,Alameda Encarnación Cabezas 61 Apt. 42 ,Ciudad,True
+Tienda Cortina,Restaurante,Via Adela Cózar 71,Sevilla,True
+Tienda Alemán,Ferretería,Pasadizo Prudencia Prieto 8 Puerta 5 ,Ávila,True
+Tienda Exposito,Restaurante,Alameda de Dafne Acevedo 433,Barcelona,True
+Tienda Santana,MiniMarket,Calle Marisol Dalmau 64,Sevilla,True
+Tienda Piquer,Restaurante,Cuesta de Ariel Madrid 47,Guadalajara,True
+Tienda Prada,Papelería,Alameda de Octavia Becerra 615 Apt. 19 ,La Coruña,True
+Tienda Galán,Restaurante,Cuesta Pastor Crespo 69,Huesca,True
+Tienda Nadal,Tecnología,Alameda Perlita Roig 132,Madrid,True
+Tienda Alsina,MiniMarket,Calle de Albano Yuste 17 Piso 1 ,Córdoba,True
+Tienda Sanmartín,Papelería,Cañada Ainoa Abella 905 Puerta 6 ,Sevilla,True
+Tienda Macias,Farmacia,Vial de Guillermo Aguilar 578 Piso 7 ,Jaén,True
+Tienda Serrano,MiniMarket,Paseo Nieves Blasco 10 Piso 5 ,Córdoba,True
+Tienda Antón,Farmacia,Cuesta Victorino Alegre 31,Vizcaya,True
+Tienda Barroso,Ropa,Ronda Carolina Falcó 4 Puerta 6 ,Teruel,True
+Tienda Monreal,Papelería,Glorieta Rogelio Noriega 37 Puerta 3 ,Valladolid,True
+Tienda Miranda,MiniMarket,Urbanización Severiano Capdevila 98 Apt. 24 ,Almería,True
+Tienda Salvà,Papelería,Vial Marta Martin 6 Puerta 5 ,Málaga,True
+Tienda Román,Restaurante,Glorieta de Marisol Valentín 95,La Rioja,True
+Tienda Pascual,Farmacia,Pasadizo María Jesús Doménech 93 Puerta 4 ,Las Palmas,True
+Tienda Sala,Papelería,Cuesta Adelaida Montes 77,Zamora,True
+Tienda Ávila,Tecnología,Acceso Amarilis Navarro 583 Piso 4 ,Málaga,True
+Tienda Aroca,Ropa,Avenida Eli Esteve 80 Piso 5 ,Ourense,True
+Tienda Bustos,Ropa,Rambla de Luciano Boada 95,Soria,True
+Tienda Ruiz,Tecnología,Cañada Desiderio Oliveras 31 Apt. 97 ,Huelva,True
+Tienda Ríos,Restaurante,Glorieta de Natanael Pujadas 32,Navarra,True
+Tienda Amaya,Restaurante,Pasadizo de Camila Piña 2 Apt. 02 ,Las Palmas,True
+Tienda Juan,Ferretería,Urbanización Salvador Burgos 90 Piso 4 ,La Coruña,True
+Tienda Esparza,Ropa,Paseo de Alexandra Torralba 410 Puerta 1 ,Pontevedra,True
+Tienda Marqués,Papelería,Plaza Leonardo Valcárcel 84 Piso 7 ,Guadalajara,True
+Tienda Vilar,Papelería,Glorieta Hilario Egea 3,Las Palmas,True
+Tienda Gallego,Ropa,Pasaje de Joel Palma 6,Granada,True
+Tienda Villena,MiniMarket,Paseo Benita Quintanilla 7,Córdoba,True
+Tienda Alcázar,Tecnología,Via de María Belén Machado 14 Apt. 18 ,Toledo,True
+Tienda Peña,Papelería,Via Calista Torrent 163,Lleida,True
+Tienda Rincón,Farmacia,Camino de Guadalupe Segarra 36,Jaén,True
+Tienda Ferreras,Restaurante,Alameda Ainara Llabrés 74,Huelva,True
+Tienda Fuertes,Farmacia,Glorieta de Obdulia Castelló 522,Ciudad,True
+Tienda Figuerola,Farmacia,Pasadizo Gabriel Patiño 747,Lleida,True
+Tienda Daza,Papelería,Cañada Desiderio Vendrell 94,Pontevedra,True
+Tienda Enríquez,Ropa,Calle de Elodia Bellido 500 Puerta 1 ,Valencia,True
+Tienda Llobet,Ferretería,Acceso Vasco Bauzà 77 Piso 3 ,Asturias,True
+Tienda Rodrigo,Ferretería,Ronda de Amparo Morcillo 7 Puerta 3 ,Guadalajara,True
+Tienda Vera,Ferretería,Ronda de Lorenzo Galan 43 Puerta 9 ,Pontevedra,True
+Tienda Téllez,Ropa,Camino Jose Luis Castells 291,Las Palmas,True
+Tienda Santiago,MiniMarket,Callejón de Silvio Domingo 82 Puerta 2 ,Cáceres,True
+Tienda Madrigal,Restaurante,Glorieta de María Cristina Marqués 74 Puerta 3 ,Cantabria,True
+Tienda Moles,Farmacia,Urbanización Clemente Tormo 2 Apt. 56 ,Palencia,True
+Tienda Vicente,MiniMarket,Pasadizo de Rico Uribe 6 Apt. 33 ,Santa Cruz de Tenerife,True
+Tienda Adán,MiniMarket,Cañada Camilo Salazar 7,Asturias,True
+Tienda Vazquez,Ropa,Paseo de Felipa Cabezas 341 Piso 3 ,Burgos,True
+Tienda Velasco,Farmacia,Vial Amelia Barranco 53,Murcia,True
+Tienda Montaña,Papelería,Urbanización Lorenza Parejo 86,Murcia,True
+Tienda Ríos,Tecnología,Urbanización de Candela Gálvez 63,Ceuta,True
+Tienda Gallardo,Restaurante,Cuesta Elodia Guerrero 768 Piso 7 ,Santa Cruz de Tenerife,True
+Tienda Fábregas,Papelería,Pasaje Adela Español 905,Lugo,True
+Tienda Rincón,Tecnología,Rambla Elías Elías 4,Alicante,True
+Tienda Vazquez,Farmacia,Callejón Toribio Ferrándiz 36,Badajoz,True
+Tienda Morell,Farmacia,Pasadizo Chus Carranza 64 Piso 8 ,Almería,True
+Tienda Salgado,Tecnología,Urbanización Luna Melero 248,Cádiz,True
+Tienda Rovira,Tecnología,Urbanización Modesta Martí 41,Almería,True
+Tienda Campos,Papelería,Glorieta de Javiera Agustín 13,Ourense,True
+Tienda Ugarte,Tecnología,Rambla de Ainara Álvaro 579,Málaga,True
+Tienda Lobato,Ropa,Calle de Remedios Rocha 524 Puerta 7 ,Cuenca,True
+Tienda Olivé,Papelería,Pasaje Nico Galán 43 Apt. 26 ,Madrid,True
+Tienda Vila,MiniMarket,Vial de Joaquín Herranz 95,Madrid,True
+Tienda Chaves,Restaurante,Plaza Máxima Manrique 56,Tarragona,True
+Tienda Merino,MiniMarket,Acceso Martín Castellanos 82,Guadalajara,True
+Tienda Piquer,Papelería,Vial Consuelo Catalá 23 Puerta 0 ,Salamanca,True
+Tienda Farré,MiniMarket,Avenida Hermenegildo Reguera 31 Puerta 5 ,Teruel,True
+Tienda Alberdi,MiniMarket,Avenida de Bernardo Losada 25,Ceuta,True
+Tienda Roldan,Ropa,Callejón Hermenegildo Méndez 52 Piso 1 ,Salamanca,True
+Tienda Lobo,Restaurante,Rambla Manu Palomo 17,Guadalajara,True
+Tienda Reig,Restaurante,Via Plinio Borrás 7,Guipúzcoa,True
+Tienda Gual,MiniMarket,Alameda de Marianela Chaparro 35 Piso 5 ,Guadalajara,True
+Tienda Vergara,MiniMarket,Paseo de Leoncio Aranda 65 Apt. 29 ,Zamora,True
+Tienda Barros,MiniMarket,Acceso Angelina Alberto 1 Piso 4 ,Málaga,True
+Tienda Andres,Ropa,Pasaje de Remigio Franco 914 Apt. 88 ,Ceuta,True
+Tienda Parra,Ropa,Pasadizo de Vito Soto 59,Jaén,True
+Tienda Mancebo,Ropa,Callejón Héctor Carreño 9 Piso 4 ,Guipúzcoa,True
+Tienda Mateu,Ferretería,Urbanización de Victor Pizarro 38,Cádiz,True
+Tienda Zurita,Papelería,Pasadizo Macario Múgica 745 Apt. 40 ,Burgos,True
+Tienda Corral,Restaurante,Ronda de Brígida Guardia 13 Piso 1 ,Ceuta,True
+Tienda Alvarez,Tecnología,Pasaje Isaías Llamas 590 Piso 7 ,Ávila,True
+Tienda Arribas,Tecnología,Alameda de Candelaria Mata 17 Piso 9 ,Baleares,True
+Tienda Barbero,MiniMarket,Callejón de Jenny Conesa 21 Puerta 4 ,Cádiz,True
+Tienda Barbero,Tecnología,Acceso Magdalena Carlos 4,La Rioja,True
+Tienda Fabregat,Ropa,Callejón Adoración Reina 70 Apt. 36 ,Álava,True
+Tienda Escudero,Farmacia,Via de Severiano Lorenzo 734 Apt. 40 ,La Rioja,True
+Tienda Mercader,MiniMarket,Acceso Gloria Macias 52 Piso 6 ,Zaragoza,True
+Tienda Arnau,Restaurante,Pasaje Natalio Olivares 2,Burgos,True
+Tienda Borrell,MiniMarket,Vial de Aristides Molina 69 Piso 1 ,Albacete,True
+Tienda Verdugo,MiniMarket,Via Efraín Carrión 2,Ceuta,True
